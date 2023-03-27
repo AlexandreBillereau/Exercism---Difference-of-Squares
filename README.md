@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Difference of Squares
 
 Welcome to Difference of Squares on Exercism's Rust Track.
